@@ -1,0 +1,6 @@
+{
+  "name": "typing255",
+  "description": "和文タイピング感覚訓練モジュール (-2-55Typing) - A beautiful, minimalist Japanese typing practice application with instant client-side mechanical synthesizers and persistent stats tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
